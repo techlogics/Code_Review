@@ -20,6 +20,6 @@ FizzBuzz,クイズ形式にて進める
 
 ## 参考サイト
 
-* [http://ja.wikipedia.org/wiki/Fizz_Buzz][linkref]
+* http://ja.wikipedia.org/wiki/Fizz_Buzz
 
-* [http://blog.jnito.com/entry/20111007/1317976730][linkref]
+* http://blog.jnito.com/entry/20111007/1317976730
